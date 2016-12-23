@@ -1,0 +1,17 @@
+﻿Сборка начата 03.12.2016 10:10:30.
+     1>Проект "C:\Users\Katya\Documents\visual studio 2013\Projects\2k8\2k8\2k8.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 1.cpp
+         1.cpp
+     1>c:\users\katya\documents\visual studio 2013\projects\2k8\2k8\1.cpp(48): warning C4621: не найдена постфиксная форма "operator --" для типа "Stack<int>"; используется префиксная форма
+     1>c:\users\katya\documents\visual studio 2013\projects\2k8\2k8\1.cpp(53): warning C4621: не найдена постфиксная форма "operator --" для типа "Stack<int>"; используется префиксная форма
+     1>c:\users\katya\documents\visual studio 2013\projects\2k8\2k8\stack.h(12): warning C4715: Stack<int>::operator bool: значение возвращается не при всех путях выполнения
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k8\Debug\2k8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k8\Debug\2k8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k8\Debug\2k8.lib" /MACHINE:X86 Debug\1.obj
+         Debug\Exeptions.obj
+         2k8.vcxproj -> C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k8\Debug\2k8.exe
+     1>Сборка проекта "C:\Users\Katya\Documents\visual studio 2013\Projects\2k8\2k8\2k8.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.11

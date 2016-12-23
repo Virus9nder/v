@@ -1,0 +1,19 @@
+﻿Сборка начата 17.12.2016 8:07:53.
+     1>Проект "c:\Users\Katya\documents\visual studio 2013\Projects\MyDll\MyDll\MyDll.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MYDLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 1.cpp
+         1.cpp
+     1>c:\users\katya\documents\visual studio 2013\projects\mydll\mydll\1.cpp(14): warning C4244: +=: преобразование "ULONGLONG" в "int", возможна потеря данных
+     1>c:\users\katya\documents\visual studio 2013\projects\mydll\mydll\1.cpp(16): warning C4244: +=: преобразование "ULONGLONG" в "int", возможна потеря данных
+     1>c:\users\katya\documents\visual studio 2013\projects\mydll\mydll\1.cpp(18): warning C4244: +=: преобразование "ULONGLONG" в "int", возможна потеря данных
+     1>c:\users\katya\documents\visual studio 2013\projects\mydll\mydll\1.cpp(20): warning C4244: +=: преобразование "ULONGLONG" в "int", возможна потеря данных
+     1>c:\users\katya\documents\visual studio 2013\projects\mydll\mydll\1.cpp(75): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\katya\documents\visual studio 2013\Projects\MyDll\Debug\MyDll.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\katya\documents\visual studio 2013\Projects\MyDll\Debug\MyDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\katya\documents\visual studio 2013\Projects\MyDll\Debug\MyDll.lib" /MACHINE:X86 /DLL Debug\1.obj
+            Создается библиотека c:\users\katya\documents\visual studio 2013\Projects\MyDll\Debug\MyDll.lib и объект c:\users\katya\documents\visual studio 2013\Projects\MyDll\Debug\MyDll.exp
+         MyDll.vcxproj -> c:\users\katya\documents\visual studio 2013\Projects\MyDll\Debug\MyDll.dll
+     1>Сборка проекта "c:\Users\Katya\documents\visual studio 2013\Projects\MyDll\MyDll\MyDll.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:11.18

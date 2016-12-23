@@ -1,0 +1,12 @@
+﻿Сборка начата 03.12.2016 10:22:42.
+     1>Проект "C:\Users\Katya\Documents\visual studio 2013\Projects\2k11\2k11\2k11.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k11\Debug\2k11.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k11\Debug\2k11.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k11\Debug\2k11.lib" /MACHINE:X86 Debug\2k11.res
+         Debug\2k11.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Katya\Documents\Visual Studio 2013\Projects\2k11\Debug\2k11.exe"
+     1>Сборка проекта "C:\Users\Katya\Documents\visual studio 2013\Projects\2k11\2k11\2k11.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:01.90
